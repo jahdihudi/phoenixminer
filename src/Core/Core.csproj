@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Phoenix.Core</RootNamespace>
+    <AssemblyName>Phoenix.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
